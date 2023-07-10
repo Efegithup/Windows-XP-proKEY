@@ -28,4 +28,15 @@ HRCXT-BY6WB-VBM83-CMBXF-BVWYY
 
 V2C47 - MK7JD - 3R89F - D2KXW - VPK3J
 
+virtual machine platforms
+
+Limbo x86 (apk) 
+https://github.com/limboemu/limbo/releases
+
+Virtual Box (exe)
+https://www.virtualbox.org/
+
+Vmware (exe)
+https://www.vmware.com/
 ⚠️ please report broken key codes to  me⚠️
+
