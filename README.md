@@ -28,3 +28,4 @@ HRCXT-BY6WB-VBM83-CMBXF-BVWYY
 
 V2C47 - MK7JD - 3R89F - D2KXW - VPK3J
 
+⚠️ please report broken key codes to  me⚠️
